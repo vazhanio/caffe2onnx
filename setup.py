@@ -30,8 +30,8 @@ setuptools.setup(
     author_email='dmc5mod@yandex.ru',
     url=GIT,
     install_requires=[
-        'protobuf',
-        'onnx==1.6.0'
+        'protobuf'
+#        'onnx==1.6.0'
     ],
     classifiers=[
         'Topic :: Software Development :: Libraries',
